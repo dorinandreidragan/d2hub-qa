@@ -1,0 +1,1 @@
+import{_ as s,C as t,c as r,o,G as a}from"./chunks/framework.B_cyytFU.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"series.md","filePath":"series.md"}'),n={name:"series.md"};function c(i,d,p,_,m,l){const e=t("SeriesIndex");return o(),r("div",null,[a(e)])}const x=s(n,[["render",c]]);export{u as __pageData,x as default};
