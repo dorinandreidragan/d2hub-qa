@@ -140,6 +140,20 @@
     "status": null
   },
   {
+    "title": "yoda conditions in powershell",
+    "date": "2025-11-14",
+    "category": "scripting",
+    "tag": [
+      "scripts",
+      "pwsh"
+    ],
+    "series": null,
+    "order": null,
+    "summary": "why `$null -eq $Date` beats `$Date -eq $null` when consistency matters.",
+    "path": "/articles/yoda-condition-null-date",
+    "status": "draft"
+  },
+  {
     "title": "simplify config updates with ansible's lineinfile",
     "date": "2025-03-27",
     "category": [
@@ -207,7 +221,7 @@
     "order": null,
     "summary": "Instantly create beautiful PDFs from markdown using Eisvogel and Docker, no setup, just results.",
     "path": "/articles/md-to-pdf-with-eisvogel",
-    "status": "draft"
+    "status": null
   },
   {
     "title": "fixing apt cache update errors: gpg keys made easy!",
